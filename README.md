@@ -43,15 +43,15 @@ Below is a list of the classes in the BSCS program. Everything that's linked has
  
  | Classes In Repo |                 |                 |                 |
  | --------------- | --------------- | --------------- | --------------- |
- | [C182 Introduction to IT](C182.md) | [C955 Applied Probability and Statistics](C955.md) | [C779 Web Development Foundations](C779.md)<sup>[C]</sup> | [C255 Introduction to Geography](C255.md) |
- | [C172 Network and Security - Foundations](C172.md) | [C958 Calculus I](C958.md) | [C455 English Composition I](C455.md) | [C173 Scripting and Programming - Foundations](C173.md) |
- | [C165 Integrated Physical Sciences](C165.md) | [C959 Discrete Mathematics I](C959.md) | [C960 Discrete Mathematics II](C960.md) | [C683 Natural Science Lab](C683.md) |
- | [C464 Introduction to Communication](C464.md) | [C952 Computer Architecture](C952.md) | [C867 Scripting and Programming - Applications](C867.md) | [C175 Data Management - Foundations](C175.md) |
- | [C170 Data Management - Applications](C170.md) | [C963 American Politics and the US Constitution](C963.md) | [C100 Introduction to Humanities](C100.md) | [C482 Software I](C482.md) |
- | [C195 Software II - Advanced Java Concepts](C195.md) | [C176 Business of IT - Project Management](C176.md) | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
- | [C961 Ethics in Technology](C961.md) | [C836 Fundamentals of Information Security](C836.md) | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md) |
- | [C846 Business of IT - Applications](C846.md) | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md) |
- | [C951 Introduction to Artificial Intelligence](C951.md) | [C857 Software Quality Assurance](C857.md) | [C964 Computer Science Capstone](C964.md) |
+ | [C182 Introduction to IT](./C182/C182.md) | [C955 Applied Probability and Statistics](./C955/C955.md) | [C779 Web Development Foundations](./C779/C779.md)<sup>[C]</sup> | [C255 Introduction to Geography](./C255/C255.md) |
+ | [C172 Network and Security - Foundations](./C172/C172.md) | [C958 Calculus I](./C958/C958.md) | [C455 English Composition I](./C455/C455.md) | [C173 Scripting and Programming - Foundations](./C173/C173.md) |
+ | [C165 Integrated Physical Sciences](./C165/C165.md) | [C959 Discrete Mathematics I](./C959/C959.md) | [C960 Discrete Mathematics II](./C960/C960.md) | [C683 Natural Science Lab](./C683/C683.md) |
+ | [C464 Introduction to Communication](./C464/C464.md) | [C952 Computer Architecture](./C952/C952.md) | [C867 Scripting and Programming - Applications](./C867/C867.md) | [C175 Data Management - Foundations](./C175/C175.md) |
+ | [C170 Data Management - Applications](./C170/C170.md) | [C963 American Politics and the US Constitution](./C963/C963.md) | [C100 Introduction to Humanities](./C100/C100.md) | [C482 Software I](./C482/C482.md) |
+ | [C195 Software II - Advanced Java Concepts](C195.md) | [C176 Business of IT - Project Management](./C176/C176.md) | [C949 Data Structures and Algorithms I](./C949/C949.md) | [C950 Data Structures and Algorithms II](./C950/C950.md) |
+ | [C961 Ethics in Technology](./C961/C961.md) | [C836 Fundamentals of Information Security](./C836/C836.md) | [C191 Operating Systems for Programmers](./C191/C191.md) | [C188 Software Engineering](./C188/C188.md) |
+ | [C846 Business of IT - Applications](./C846/C846.md) | [D191 Advanced Data Management](./D191/D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](./D194/D194.md)<sup>[N]</sup> | [C768 Technical Communication](./C768/C768.md) |
+ | [C951 Introduction to Artificial Intelligence](./C951/C951.md) | [C857 Software Quality Assurance](./C857/C857.md) | [C964 Computer Science Capstone](./C964/C964.md) |
  
 
 <sub>[C] - This symbol is to denote a course recently underwent a significant change, so the content on its readme may be slightly outdated in some areas. If you've taken it since the changes were implemented and would like to help us update the course page, please submit a pull request!</sub>
